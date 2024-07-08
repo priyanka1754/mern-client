@@ -15,5 +15,6 @@ root.render(
         <Route path="/register" element={<Register />} />
       </Routes>
     </Router>
+    <p>WelCome</p>
   </React.StrictMode>
 );
